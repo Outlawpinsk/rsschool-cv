@@ -23,12 +23,14 @@
       <div class="chicken to-keksik to-rudolf"></div>
     </div>
   </body>
-</html>```
+</html>
+```
 
 CSS:
  ```#keks-vs-rudolf .to-rudolf{
   margin-left: 120px;
-}```
+}
+```
 6. No developer experience
 7. "Minsk State Higher Radio Engineering College". specialty "Computer facilities"
 "Belarusian National Technical University" specialty "Car service"
