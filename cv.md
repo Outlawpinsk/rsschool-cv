@@ -3,7 +3,8 @@
 3. He graduated from the Minsk State Higher College of Radio Engineering with a degree in Electronic Computing and the Belarusian National Technical University with a degree in Auto Service. He worked at Atlant-Telecom (now A1) as a communications fitter. Now I work in the company "Nero Electronics" as the operator of the automated installation of surface-mounted radio elements (SMD). I am taking Roling Scopes courses.
 4. Skills: HTML and CSS
 5. HTML: 
-```<html>
+```
+<html>
   <head>
     <title>Битва за курочку. Борьба накаляется</title>
     <meta charset="utf-8">
@@ -27,7 +28,8 @@
 ```
 
 CSS:
- ```#keks-vs-rudolf .to-rudolf{
+ ```
+ #keks-vs-rudolf .to-rudolf{
   margin-left: 120px;
 }
 ```
