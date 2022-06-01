@@ -35,5 +35,5 @@ CSS:
 ```
 6. No developer experience
 7. "Minsk State Higher Radio Engineering College". specialty "Computer facilities"
-"Belarusian National Technical University" specialty "Car service"
+"Belarusian National Technical University" specialty "Car service".
 8. English - A2.
